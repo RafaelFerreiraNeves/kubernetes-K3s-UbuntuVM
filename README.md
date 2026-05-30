@@ -506,6 +506,9 @@ kubectl get pods -n apps
 ---
 
 # Mesmo recriando o pod os dados continuarão salvos no Persistent Volume
+```
+
+---
 
 
 # Autor
